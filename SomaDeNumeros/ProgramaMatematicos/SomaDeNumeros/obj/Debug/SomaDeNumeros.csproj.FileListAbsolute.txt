@@ -1,0 +1,6 @@
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe.config
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\bin\Debug\SomaDeNumeros.exe
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\bin\Debug\SomaDeNumeros.pdb
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\obj\Debug\SomaDeNumeros.csprojAssemblyReference.cache
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\obj\Debug\SomaDeNumeros.exe
+C:\Users\joao.mmlima2\Documents\bkp visualstudio\SomaDeNumeros\ProgramaMatematicos\SomaDeNumeros\obj\Debug\SomaDeNumeros.pdb
